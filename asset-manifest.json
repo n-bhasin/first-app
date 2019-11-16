@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/n-bhasin/first-react-app/index.html/static/css/main.b100e6da.chunk.css",
-    "main.js": "/n-bhasin/first-react-app/index.html/static/js/main.f1b7bbf5.chunk.js",
-    "main.js.map": "/n-bhasin/first-react-app/index.html/static/js/main.f1b7bbf5.chunk.js.map",
-    "runtime-main.js": "/n-bhasin/first-react-app/index.html/static/js/runtime-main.4757c44d.js",
-    "runtime-main.js.map": "/n-bhasin/first-react-app/index.html/static/js/runtime-main.4757c44d.js.map",
-    "static/css/2.833dd627.chunk.css": "/n-bhasin/first-react-app/index.html/static/css/2.833dd627.chunk.css",
-    "static/js/2.4cd98d95.chunk.js": "/n-bhasin/first-react-app/index.html/static/js/2.4cd98d95.chunk.js",
-    "static/js/2.4cd98d95.chunk.js.map": "/n-bhasin/first-react-app/index.html/static/js/2.4cd98d95.chunk.js.map",
-    "index.html": "/n-bhasin/first-react-app/index.html/index.html",
-    "precache-manifest.7760dc25c9373a72b67a9d060704cb3f.js": "/n-bhasin/first-react-app/index.html/precache-manifest.7760dc25c9373a72b67a9d060704cb3f.js",
-    "service-worker.js": "/n-bhasin/first-react-app/index.html/service-worker.js",
-    "static/css/2.833dd627.chunk.css.map": "/n-bhasin/first-react-app/index.html/static/css/2.833dd627.chunk.css.map",
-    "static/css/main.b100e6da.chunk.css.map": "/n-bhasin/first-react-app/index.html/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/n-bhasin/first-react-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/n-bhasin/first-react-app/static/js/main.ae95373c.chunk.js",
+    "main.js.map": "/n-bhasin/first-react-app/static/js/main.ae95373c.chunk.js.map",
+    "runtime-main.js": "/n-bhasin/first-react-app/static/js/runtime-main.28174b88.js",
+    "runtime-main.js.map": "/n-bhasin/first-react-app/static/js/runtime-main.28174b88.js.map",
+    "static/css/2.833dd627.chunk.css": "/n-bhasin/first-react-app/static/css/2.833dd627.chunk.css",
+    "static/js/2.4cd98d95.chunk.js": "/n-bhasin/first-react-app/static/js/2.4cd98d95.chunk.js",
+    "static/js/2.4cd98d95.chunk.js.map": "/n-bhasin/first-react-app/static/js/2.4cd98d95.chunk.js.map",
+    "index.html": "/n-bhasin/first-react-app/index.html",
+    "precache-manifest.d27f7d9893ac0cec87dfd1e8062c9eb4.js": "/n-bhasin/first-react-app/precache-manifest.d27f7d9893ac0cec87dfd1e8062c9eb4.js",
+    "service-worker.js": "/n-bhasin/first-react-app/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/n-bhasin/first-react-app/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/n-bhasin/first-react-app/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.4757c44d.js",
+    "static/js/runtime-main.28174b88.js",
     "static/css/2.833dd627.chunk.css",
     "static/js/2.4cd98d95.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.f1b7bbf5.chunk.js"
+    "static/js/main.ae95373c.chunk.js"
   ]
 }
