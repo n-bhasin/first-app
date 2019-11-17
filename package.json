@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/n-bhasin/first-react-app/",
+  "homepage": "https://n-bhasin.github.io/first-app/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.1.1",
