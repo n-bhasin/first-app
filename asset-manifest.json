@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/n-bhasin/first-react-app/static/css/main.b100e6da.chunk.css",
-    "main.js": "/n-bhasin/first-react-app/static/js/main.ae95373c.chunk.js",
-    "main.js.map": "/n-bhasin/first-react-app/static/js/main.ae95373c.chunk.js.map",
-    "runtime-main.js": "/n-bhasin/first-react-app/static/js/runtime-main.28174b88.js",
-    "runtime-main.js.map": "/n-bhasin/first-react-app/static/js/runtime-main.28174b88.js.map",
-    "static/css/2.833dd627.chunk.css": "/n-bhasin/first-react-app/static/css/2.833dd627.chunk.css",
-    "static/js/2.4cd98d95.chunk.js": "/n-bhasin/first-react-app/static/js/2.4cd98d95.chunk.js",
-    "static/js/2.4cd98d95.chunk.js.map": "/n-bhasin/first-react-app/static/js/2.4cd98d95.chunk.js.map",
-    "index.html": "/n-bhasin/first-react-app/index.html",
-    "precache-manifest.d27f7d9893ac0cec87dfd1e8062c9eb4.js": "/n-bhasin/first-react-app/precache-manifest.d27f7d9893ac0cec87dfd1e8062c9eb4.js",
-    "service-worker.js": "/n-bhasin/first-react-app/service-worker.js",
-    "static/css/2.833dd627.chunk.css.map": "/n-bhasin/first-react-app/static/css/2.833dd627.chunk.css.map",
-    "static/css/main.b100e6da.chunk.css.map": "/n-bhasin/first-react-app/static/css/main.b100e6da.chunk.css.map"
+    "main.css": "/first-app/static/css/main.b100e6da.chunk.css",
+    "main.js": "/first-app/static/js/main.5e8c2d35.chunk.js",
+    "main.js.map": "/first-app/static/js/main.5e8c2d35.chunk.js.map",
+    "runtime-main.js": "/first-app/static/js/runtime-main.21bb9908.js",
+    "runtime-main.js.map": "/first-app/static/js/runtime-main.21bb9908.js.map",
+    "static/css/2.833dd627.chunk.css": "/first-app/static/css/2.833dd627.chunk.css",
+    "static/js/2.4cd98d95.chunk.js": "/first-app/static/js/2.4cd98d95.chunk.js",
+    "static/js/2.4cd98d95.chunk.js.map": "/first-app/static/js/2.4cd98d95.chunk.js.map",
+    "index.html": "/first-app/index.html",
+    "precache-manifest.e410208dd59f676ddaa35e244f283c93.js": "/first-app/precache-manifest.e410208dd59f676ddaa35e244f283c93.js",
+    "service-worker.js": "/first-app/service-worker.js",
+    "static/css/2.833dd627.chunk.css.map": "/first-app/static/css/2.833dd627.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/first-app/static/css/main.b100e6da.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.28174b88.js",
+    "static/js/runtime-main.21bb9908.js",
     "static/css/2.833dd627.chunk.css",
     "static/js/2.4cd98d95.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.ae95373c.chunk.js"
+    "static/js/main.5e8c2d35.chunk.js"
   ]
 }
